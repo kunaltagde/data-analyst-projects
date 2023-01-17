@@ -9,7 +9,11 @@ Conclusion
 To outline some of the key elements from this analysis:
 
 Paid games were substantially more played than F2P by 81.20%
+
 The biggest price for paid games was $19.99, Lowest priced games were between $0.99 and $1.99.
+
 The most popular genre found was open world, shortly followed up by FPS
-Most expensive games that were rated were $59.99 (standard MSRP/RRP pricing in most western territories)
+
+Most expensive games that were rated were $59.99 (standard MSRP/RRP pricing in most western territories).
+
 Monetary value of games may affect consumer desision of product value
